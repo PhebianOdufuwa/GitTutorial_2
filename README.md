@@ -10,7 +10,7 @@ This tutorial will enable students have hands-on experience about how to create 
 # Introduction
 
 - This repository provides the data and R code associated to Chapter 11: Part 2. 
-- The Documentation used as practice examples is found in <https://rpubs.com/Phebie/682307> 
+- The Documentation used as practice examples is found in [here](https://phebianodufuwa.github.io/HTMLpages/Documentation.html) 
 - This study aims at providing a Git and GitHub Tutorial for EEB603, Reproducible Science Class during the Fall 2020 Semester.
 
 # Collaborators
@@ -39,7 +39,7 @@ The repository contains:
   
   2. The folder 'Figures' consist of figures obtained after running R Function for obtaining alpha and beta diversities of Idaho biodiversity
      - The folder also consists of screen shots of instructions on how to use Git and GitHub to ensure reproducible science.
-  3. The documentation used as practice, and explaining the results obtained after running the R code is contained in the folder 'Documentation' in pdf and html formats and has been published as both R publication on <https://rpubs.com/Phebie/682307> and as a GitHub page on <https://rpubs.com/Phebie/682307>.   
+  3. The documentation used as practice, and explaining the results obtained after running the R code is contained in the folder 'Documentation' in pdf and html formats and has been published as both R publication on [here](https://rpubs.com/Phebie/682307) and as a GitHub page on [here](https://phebianodufuwa.github.io/HTMLpages/Documentation.html).   
   
   4. The Tutorial Document is also available in the folder 'Chapter_11_part_2' and is available in pdf, html, and word formats
   
