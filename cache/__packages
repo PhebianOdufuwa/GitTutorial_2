@@ -1,0 +1,17 @@
+base
+knitr
+rmarkdown
+bookdown
+knitcitations
+formatR
+usethis
+devtools
+vembedr
+prettydoc
+htmltools
+packrat
+ggplot2
+permute
+lattice
+vegan
+gridExtra
